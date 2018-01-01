@@ -30,7 +30,7 @@ public class JsonMapper {
      * Loops through the given string input
      * @return HashMap<String, Object>
      */
-    public Map parse() {
+    public Map map() {
         if (input == null || input.trim().length() == 0) {
             return null;
         }
