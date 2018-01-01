@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-Json-String-To-Map.iml" filepath="$PROJECT_DIR$/Java-Json-String-To-Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Json-Mapper.iml" filepath="$PROJECT_DIR$/Java-Json-Mapper.iml" />
     </modules>
   </component>
 </project>

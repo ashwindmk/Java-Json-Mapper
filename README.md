@@ -6,5 +6,12 @@ Java class to convert Json string to map.
 
 ```gradle
 JsonMapper mapper = new JsonMapper("{\"id\": 1, \"name\": \"John Doe\"}");
-HashMap map = mapper.map();
+HashMap map = (HashMap) mapper.map();
+
+System.out.println(map);
+```
+
+### Output
+```gradle
+{name=John Doe, id=1}
 ```
